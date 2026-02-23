@@ -1,6 +1,6 @@
 # ==========================================
 #   Project By Mehdi FF
-#   Network Testing Tool (Educational Only)
+#   dodoa x xza Tool (Educational Only)
 # ==========================================
 
 # ⚠️  For Testing Your Own Server Only
